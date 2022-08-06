@@ -1,0 +1,368 @@
+
+body{
+  overflow-x: hidden; 
+  margin: 0px;
+  padding: 0px;
+}
+
+#header{
+    background-color:black;
+    width: 100%;
+    height: 80px;
+}
+img{
+    width: 150px;
+    height: auto;
+    float: left;
+    margin-top: 15px;
+    margin-left: 190px;
+}
+.menu{
+    background-color:black;
+    float: left;
+    margin-left: 860px;
+    margin-bottom: 600px;
+    padding-top:px;
+    width: 500px;
+    margin-top: -50px;
+    padding-bottom: 0px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-size:15px;
+    font-weight: 700;
+}
+
+.menu1{
+    float: left;
+    color: #fff;
+    
+    display:block;
+    margin-top: 20px
+}
+.menu2{
+    float: left;
+    color: #fff; 
+    
+    margin-left: 40px;
+    display:block;
+    margin-top: 20px
+}
+.menu3{
+    float: left;
+    color:  #fff; 
+    display:block;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #fff;
+    border-left: #fff;
+    border-top: #fff;
+    border-bottom: #fff;
+    padding-right:15px ;
+}
+.menu4{
+    float: left;
+    color: #fff; 
+    
+    margin-left: 340px;
+    display:block;
+    margin-top: -17px
+}
+.menu5{
+    float: left;
+    color: #fff; 
+    
+    margin-left: 440px;
+    display:block;
+    margin-top: -17px
+}
+
+.body1{
+background: url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+background-position: center -138px;
+width: 100%;
+height: 605px;
+}
+.image1{
+   margin-top: -432px;
+   height: 468px;
+   width: 277px;
+   margin-left: 267px;
+}
+.image2{
+    margin-top: -473px; 
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    height: 41px;
+    width: 277px;
+    margin-left: -277px;
+}
+.text1{
+    margin-left: 641px;
+    margin-top: -420px;
+    font-size: 60px;
+    line-height: 1.15;
+    max-width: 653px;
+    color: white;
+    font-weight: 760;
+    box-sizing: border-box;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+}
+.body2{
+    float: left;
+}
+.zoom {
+    margin-left: 635px;
+    background-color: white;
+    transition: transform .2s;
+    width: 190px;
+    height: 50px;
+    justify-content: center;
+    border-radius:20px;
+    color:#000000;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    border-color:aliceblue;
+    font-weight: 700;
+    cursor: grab;
+  }
+.zoom:hover {
+    transform: scale(1.1); 
+  }
+  .body3{
+    width: 100%;
+    height: 603px;
+    margin-top: -80px;
+  }
+  .text2{
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 790px;
+    margin-left: 641px;
+    margin-top: 80px;
+    width: 350px;
+   font-size: 39px;
+    height: 46px;
+    padding-top: 98px;
+    padding-right: 394px;
+  }
+  .token{
+    width: 170px;
+}
+  .row-2{
+    text-align: right;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 1.3em;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+  }
+  .row-3{
+    text-align: right;
+    line-height: 1.5;
+    font-size: 16px;
+    box-sizing: border-box;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+  } 
+  .body4{
+    width: 100%;
+    height: 497px;
+    margin-top: -100px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+}
+.text3{
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    text-align: center;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+    padding-top: 190px;
+}
+.body5{
+    width: 100%;
+    height: 590px;
+    margin-top: -20px;
+    background-color: #fff;
+}
+.text4{
+    font-size: 40px;
+    color: #000000;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    text-align: center;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+    padding-top: 100px;
+}
+.list{
+    list-style-type: none;
+}
+.right{
+     margin-right: -323px;
+    float: right;
+    position: relative;
+    top: 3px;
+}
+.dropdown {
+   margin-left: 290px;
+   margin-top: 90px;
+   width: 583px;
+   height: 300px;
+}
+.select1 {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    list-style: none;
+    color: #000;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+}
+.select2 {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    list-style: none;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+    margin-top: 1190px;
+}
+.body6{
+    background: url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    background-position: center -138px;
+    width: 100%;
+    height: 445px;
+    }
+    .text5{
+        font-size: 80px;
+        color: white;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        line-height: 1.2;
+        text-align: center;
+        font-family: spotify-circular,Helvetica,Arial,sans-serif;
+        padding-top: 120px;
+    }
+    .zoom1 {
+        margin-left: 635px;
+        background-color: white;
+        transition: transform .2s;
+        width: 190px;
+        height: 50px;
+        justify-content: center;
+        border-radius:20px;
+        color: var(--text-base,#000000);
+        font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+        -webkit-tap-highlight-color: transparent;
+        border-color:aliceblue;
+        font-weight: 700;
+        cursor: grab;
+        margin-top: 60px;
+      }
+      .zoom1:hover {
+        -ms-transform: scale(1.5); /* IE 9 */
+        -webkit-transform: scale(1.5); /* Safari 3-8 */
+        transform: scale(1.1); 
+      }
+      .footer{
+        width: 100%;
+        height: 530px;
+        margin-top: -20px;
+        background-color: #000000;
+      }
+      .logo1{
+        margin-top: 90px;
+      }
+      .tablef1{
+        color: #fff;
+        width: 550px;
+        height: 410px;
+        margin-left: 380px;
+        padding-top: 100px;
+        text-align: center;
+        font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: spotify-circular,Helvetica,Arial,sans-serif;
+      }
+      .head{
+        color: #919496;
+        font-size: 12px;
+        font-weight: 900;
+        line-height: 1.4;
+        letter-spacing: .08em;
+        text-align: left;
+      }
+      .tablef2{
+        margin-left: 1200px;
+        margin-top: -350px;
+        float: left;
+        width: 220px;
+        height: 120px;
+      }
+      .insta-icon{
+        color:wheat;
+        border-radius: 50%;
+    background-color: #222326;
+    width: 54px;
+    height: 54px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    cursor: pointer;
+    list-style-type: disc;
+    font-size: 16px;
+    transition: color 0.2s;
+    }
+    .insta-icon:hover{
+        color: #1ed760;
+    }
+    .tablef1-hover:hover{
+        color: #1ed760; 
+    }
+    .tablef1-hover{
+        cursor: pointer;
+        text-align: left;
+    }
+
+    .tablef3{
+        margin-top: 60px;
+        margin-left: 190px;
+        width: 400px;
+    }
+     .tablef3-text{
+        font-size: 12px;
+        align-items: center;
+    white-space: nowrap;
+    color: #919496;
+    cursor: pointer;
+    letter-spacing: 0;
+    text-align: -webkit-match-parent;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    transition: color 0.2s;
+     }
+     .tablef3-text:hover{
+        color: #1ed760;
+     } 
+     .tablef4{
+        margin-top: -50px;
+        margin-left: 1260px;
+        width: 400px;
+        height: 70px;
+     }  
+    .tablef4-text{
+        display: flex;
+        font-size: 12px;
+        align-items: center;
+        color: #919496;
+        cursor: pointer;
+        font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+        font-weight: 400;
+        text-decoration: none;
+        transition: color 0.2s;
+    }
+    .tablef4-text:hover{
+        color: #1ed760;
+    }
